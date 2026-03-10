@@ -8,7 +8,8 @@
   "server": {
     "ip": "m7md_iq.aternos.me",
     "port": 61171,
-    "version": "1.21.11"
+    "version": "1.21.1",
+    "try-creative": false
   },
   "position": {
     "enabled": true,
